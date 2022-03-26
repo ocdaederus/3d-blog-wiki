@@ -1,0 +1,18 @@
+.textboxstartseite{
+  text-align: center;
+  /* margin: 30% 30% 40% 40%; */
+  margin-top: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#mainpage {
+  /* background-image: url('./images/background/main.png'); */
+  background-image: url('./images/background/main.gif') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #aaaa00;
+}

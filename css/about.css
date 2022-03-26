@@ -1,0 +1,35 @@
+.Kontakt{
+  text-align: center;
+  background-color: #40E0D0;
+  margin-left: 35%;
+  margin-right: 35%;
+  /* width: 500px;
+  height: 100px; */
+}
+
+#impressumtitle0 {
+  color: #FFD700;
+  /* text-align: center;
+  background-color: #8b2e62;
+  height: 100%;
+  width: 160px;
+  margin-left: 42%;
+  margin-right: 42%; */
+}
+
+.impressumtitle1{
+  color: #2E8B57;
+  /* text-align: left;
+  width: 50%;
+  height: 50%; */
+}
+
+.impressumtitle2{
+  color: black;
+}
+
+.impressumabsatz0{
+  color: yellow;
+  margin-left: 10%;
+  margin-right: 10%
+}

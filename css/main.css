@@ -1,0 +1,84 @@
+/*h1 {
+  text-align: center;
+  text-decoration: underline;
+  background-color: #228B22;
+  color: #00FF7F;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}*/
+
+body{
+  /* Anfang des Bereiches für die Textfarbe */
+
+  /* Die Farbe heißt limegreen
+  color: #32CD32;*/
+
+  /* Die Farbe heißt dark orange
+  color: #FF8C00; */
+
+  /* Die Farbe heißt mediumspringgreen*/
+  color: #00FA9A;
+
+  /* Ende des Bereiches für die Textfarbe */
+
+
+  /* Anfang des Bereiches für die Hintergrundfarbe */
+
+  /* background-color: #afffa8; */
+
+  /* Die Hintergrundfarbe ist ein Grünton
+  background-color: #228B22; */
+
+  /* Die Hintergrundfarbe heißt seagreen */
+  background-color: #2E8B57;
+
+  /* Die Hintergrundfarbe heißt seagreen */
+  /* background-color: #afffa8; */
+
+  /* Ende des Bereiches für die Hintergrundfarbe */
+
+
+  /* Der Text wird in der Mitte angezeigt.
+  text-align: center; */
+}
+
+#navlistetop{
+  /* background-color: #ffff00; */
+  /* position: fixed;
+  top: 0;
+  width: 100%; */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.listenelementstartseite{
+  /* display: inline; */
+  float: left;
+}
+
+/* .verbindungstartseite1{
+  display: block;
+  padding: 8px;
+  background: #ddddaa;
+} */
+
+.listenelementstartseite .verbindungstartseite1{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Ändert die Farbe der Verbindung, sobald der Nutzer über die Verbindung fährt. */
+.listenelementstartseite .verbindungstartseite1:hover{
+  background-color: #111;
+}
+
+#active{
+  background-color: #04AA6D;
+}
